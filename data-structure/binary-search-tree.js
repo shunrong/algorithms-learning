@@ -1,29 +1,25 @@
 
 class BinaryTreeNode {
-  key: any;
-  left: null;
-  right: null;
-  constructor(key: any) {
+  constructor(key) {
     this.key = key;
     this.left = null;
     this.right = null;
   }
 }
 
-enum Compare {
-  LESS_THAN = -1,
-  MORE_THAN = 1,
-  EQUAL = 0,
+const Compare  = {
+  LESS_THAN: -1,
+  MORE_THAN: 1,
+  EQUAL: 0,
 }
 
 export default class BinarySearchTree {
-  root: any;
   constructor(compareFn) {
     this.root = null;
     this.compareFn = compareFn;
   }
 
-  private compareFn(a, b) {
+  compareFn(a, b) {
     if (a < b) {
       return Compare.LESS_THAN;
     } else if (a > b) {
@@ -42,7 +38,7 @@ export default class BinarySearchTree {
     }
   }
 
-  private insertNode(node, key) {
+  insertNode(node, key) {
     if (this.compareFn(node.key, key) === Compare.MORE_THAN) {
       if (node.left == null) {
         node.left = new BinaryTreeNode(key);
@@ -63,7 +59,7 @@ export default class BinarySearchTree {
     this.inOrderTraverseNode(this.root, callback);
   }
 
-  private inOrderTraverseNode(node, callback) {
+  inOrderTraverseNode(node, callback) {
     if (node == null) return;
     this.inOrderTraverseNode(node.left, callback);
     callback(node.key);
@@ -75,7 +71,7 @@ export default class BinarySearchTree {
     this.preOrderTraverseNode(this.root, callback);
   }
 
-  private preOrderTraverseNode(node, callback) {
+  preOrderTraverseNode(node, callback) {
     if (node == null) return;
     callback(node.key);
     this.preOrderTraverseNode(node.left, callback);
@@ -87,7 +83,7 @@ export default class BinarySearchTree {
     this.postOrderTraverseNode(this.root, callback);
   }
 
-  private postOrderTraverseNode(node, callback) {
+  postOrderTraverseNode(node, callback) {
     if (node == null) return;
     this.postOrderTraverseNode(node.left, callback);
     this.postOrderTraverseNode(node.right, callback);
@@ -141,7 +137,7 @@ export default class BinarySearchTree {
     this.root = this.removeNode(this.root, key);
   }
 
-  private removeNode(node, key) {
+  removeNode(node, key) {
     if (node == null) return null;
     if (this.compareFn(node.key, key) === Compare.MORE_THAN) {
       node.left = this.removeNode(node.left, key);
@@ -170,5 +166,4 @@ export default class BinarySearchTree {
       return node;
     }
   }
- 
 }
