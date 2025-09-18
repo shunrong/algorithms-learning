@@ -11,13 +11,13 @@ import { heapSort } from './heap-sort.js';
 
 
 let arr = [5, 12, 7, 3, 1, 9, 11, 2, 8, 3, 4];
-console.log('bubbleSort', bubbleSort(arr));
-console.log('selectSort', selectSort(arr));
-console.log('insertSort', insertSort(arr));
-console.log('shellSort', shellSort(arr));
-console.log('quickSort', quickSort(arr));
-console.log('mergeSort', mergeSort(arr));
-console.log('countSort', countSort(arr));
-console.log('bucketSort', bucketSort(arr));
-console.log('radixSort', radixSort(arr));
+// console.log('bubbleSort', bubbleSort(arr));
+// console.log('selectSort', selectSort(arr));
+// console.log('insertSort', insertSort(arr));
+// console.log('shellSort', shellSort(arr));
+// console.log('quickSort', quickSort(arr));
+// console.log('mergeSort', mergeSort(arr));
+// console.log('countSort', countSort(arr));
+// console.log('bucketSort', bucketSort(arr));
+// console.log('radixSort', radixSort(arr));
 console.log('heapSort', heapSort(arr));
