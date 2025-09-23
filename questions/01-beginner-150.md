@@ -2,7 +2,7 @@
 
 > **目标**: 夯实基础，建立算法思维  
 > **难度分布**: 简单68题 | 中等73题 | 困难9题  
-> **进度**: 77/150 (51.3%)
+> **进度**: 78/150 (52.0%)
 
 ## 📊 图标说明
 
@@ -55,7 +55,7 @@
 | 33 | ✅ | 144 | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | 🟢 | `栈` `树` `深度优先搜索` `二叉树` |  |
 | 34 | ✅ | 145 | [二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/) | 🟢 | `栈` `树` `深度优先搜索` `二叉树` |  |
 | 35 | ⭕ | 155 | [最小栈](https://leetcode.cn/problems/min-stack/) | 🟢 | `栈` `设计` |  |
-| 36 | ⭕ | 160 | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | 🟢 | `哈希表` `链表` `双指针` |  |
+| 36 | ✅ | 160 | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | 🟢 | `哈希表` `链表` `双指针` |  |
 | 37 | ✅ | 167 | [两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | 🟢 | `数组` `双指针` `二分查找` |  |
 | 38 | ✅ | 169 | [多数元素](https://leetcode.cn/problems/majority-element/) | 🟢 | `数组` `哈希表` `分治` `计数` `排序` |  |
 | 39 | ⭕ | 171 | [Excel 表列序号](https://leetcode.cn/problems/excel-sheet-column-number/) | 🟢 | `数学` `字符串` |  |
