@@ -2,7 +2,7 @@
 
 > **目标**: 夯实基础，建立算法思维  
 > **难度分布**: 简单68题 | 中等73题 | 困难9题  
-> **进度**: 81/150 (54.0%)
+> **进度**: 83/150 (55.3%)
 
 ## 📊 图标说明
 
@@ -64,7 +64,7 @@
 | 42 | ✅ | 202 | [快乐数](https://leetcode.cn/problems/happy-number/) | 🟢 | `哈希表` `数学` `双指针` |  |
 | 43 | ✅ | 203 | [移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) | 🟢 | `递归` `链表` |  |
 | 44 | ⭕ | 205 | [同构字符串](https://leetcode.cn/problems/isomorphic-strings/) | 🟢 | `哈希表` `字符串` |  |
-| 45 | ⭕ | 206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 🟢 | `递归` `链表` |  |
+| 45 | ✅ | 206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 🟢 | `递归` `链表` |  |
 | 46 | ✅ | 217 | [存在重复元素](https://leetcode.cn/problems/contains-duplicate/) | 🟢 | `数组` `哈希表` `排序` |  |
 | 47 | ✅ | 219 | [存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/) | 🟢 | `数组` `哈希表` `滑动窗口` |  |
 | 48 | ✅ | 225 | [用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/) | 🟢 | `栈` `设计` `队列` |  |
@@ -144,7 +144,7 @@
 | 122 | ✅ | 106 | [从中序与后序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 🟡 | `树` `数组` `哈希表` `分治` `二叉树` |  |
 | 123 | ✅ | 107 | [二叉树的层序遍历 II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/) | 🟡 | `树` `广度优先搜索` `二叉树` |  |
 | 124 | ⭕ | 113 | [路径总和 II](https://leetcode.cn/problems/path-sum-ii/) | 🟡 | `树` `深度优先搜索` `回溯` `二叉树` |  |
-| 125 | ⭕ | 114 | [二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | 🟡 | `栈` `树` `深度优先搜索` `链表` `二叉树` |  |
+| 125 | ✅ | 114 | [二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/) | 🟡 | `栈` `树` `深度优先搜索` `链表` `二叉树` |  |
 | 126 | ✅ | 116 | [填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/) | 🟡 | `树` `深度优先搜索` `广度优先搜索` `链表` `二叉树` |  |
 | 127 | ⭕ | 120 | [三角形最小路径和](https://leetcode.cn/problems/triangle/) | 🟡 | `数组` `动态规划` |  |
 | 128 | ✅ | 128 | [最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | 🟡 | `并查集` `数组` `哈希表` |  |
