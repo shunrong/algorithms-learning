@@ -2,7 +2,7 @@
 
 > **目标**: 夯实基础，建立算法思维  
 > **难度分布**: 简单68题 | 中等73题 | 困难9题  
-> **进度**: 83/150 (55.3%)
+> **进度**: 85/150 (56.7%)
 
 ## 📊 图标说明
 
@@ -69,11 +69,11 @@
 | 47 | ✅ | 219 | [存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/) | 🟢 | `数组` `哈希表` `滑动窗口` |  |
 | 48 | ✅ | 225 | [用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/) | 🟢 | `栈` `设计` `队列` |  |
 | 49 | ✅ | 226 | [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | 🟢 | `树` `深度优先搜索` `广度优先搜索` `二叉树` |  |
-| 50 | ⭕ | 231 | [2 的幂](https://leetcode.cn/problems/power-of-two/) | 🟢 | `位运算` `递归` `数学` |  |
+| 50 | ✅ | 231 | [2 的幂](https://leetcode.cn/problems/power-of-two/) | 🟢 | `位运算` `递归` `数学` |  |
 | 51 | ✅ | 232 | [用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/) | 🟢 | `栈` `设计` `队列` |  |
 | 52 | ✅ | 234 | [回文链表](https://leetcode.cn/problems/palindrome-linked-list/) | 🟢 | `栈` `递归` `链表` `双指针` |  |
 | 53 | ⭕ | 235 | [二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 🟢 | `树` `深度优先搜索` `二叉搜索树` `二叉树` |  |
-| 54 | ⭕ | 237 | [删除链表中的节点](https://leetcode.cn/problems/delete-node-in-a-linked-list/) | 🟢 | `链表` |  |
+| 54 | ✅ | 237 | [删除链表中的节点](https://leetcode.cn/problems/delete-node-in-a-linked-list/) | 🟢 | `链表` |  |
 | 55 | ⭕ | 242 | [有效的字母异位词](https://leetcode.cn/problems/valid-anagram/) | 🟢 | `哈希表` `字符串` `排序` |  |
 | 56 | ✅ | 257 | [二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) | 🟢 | `树` `深度优先搜索` `字符串` `回溯` `二叉树` |  |
 | 57 | ⭕ | 268 | [丢失的数字](https://leetcode.cn/problems/missing-number/) | 🟢 | `位运算` `数组` `哈希表` `数学` `二分查找` `排序` |  |
