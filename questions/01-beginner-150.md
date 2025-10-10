@@ -2,7 +2,7 @@
 
 > **目标**: 夯实基础，建立算法思维  
 > **难度分布**: 简单68题 | 中等73题 | 困难9题  
-> **进度**: 88/150 (58.7%)
+> **进度**: 90/150 (60.0%)
 
 ## 📊 图标说明
 
@@ -30,9 +30,9 @@
 | 8 | ✅ | 27 | [移除元素](https://leetcode.cn/problems/remove-element/) | 🟢 | `数组` `双指针` |  |
 | 9 | ✅ | 28 | [找出字符串中第一个匹配项的下标](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 | `双指针` `字符串` `字符串匹配` |  |
 | 10 | ✅ | 35 | [搜索插入位置](https://leetcode.cn/problems/search-insert-position/) | 🟢 | `数组` `二分查找` |  |
-| 11 | ⭕ | 58 | [最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/) | 🟢 | `字符串` |  |
+| 11 | ✅ | 58 | [最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/) | 🟢 | `字符串` |  |
 | 12 | ✅ | 66 | [加一](https://leetcode.cn/problems/plus-one/) | 🟢 | `数组` `数学` |  |
-| 13 | ⭕ | 67 | [二进制求和](https://leetcode.cn/problems/add-binary/) | 🟢 | `位运算` `数学` `字符串` `模拟` |  |
+| 13 | ✅ | 67 | [二进制求和](https://leetcode.cn/problems/add-binary/) | 🟢 | `位运算` `数学` `字符串` `模拟` |  |
 | 14 | ✅ | 69 | [x 的平方根](https://leetcode.cn/problems/sqrtx/) | 🟢 | `数学` `二分查找` |  |
 | 15 | ✅ | 70 | [爬楼梯](https://leetcode.cn/problems/climbing-stairs/) | 🟢 | `记忆化搜索` `数学` `动态规划` |  |
 | 16 | ✅ | 83 | [删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | 🟢 | `链表` |  |
