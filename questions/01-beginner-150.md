@@ -2,7 +2,7 @@
 
 > **目标**: 夯实基础，建立算法思维  
 > **难度分布**: 简单68题 | 中等73题 | 困难9题  
-> **进度**: 90/150 (60.0%)
+> **进度**: 93/150 (62.0%)
 
 ## 📊 图标说明
 
@@ -58,12 +58,12 @@
 | 36 | ✅ | 160 | [相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | 🟢 | `哈希表` `链表` `双指针` |  |
 | 37 | ✅ | 167 | [两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/) | 🟢 | `数组` `双指针` `二分查找` |  |
 | 38 | ✅ | 169 | [多数元素](https://leetcode.cn/problems/majority-element/) | 🟢 | `数组` `哈希表` `分治` `计数` `排序` |  |
-| 39 | ⭕ | 171 | [Excel 表列序号](https://leetcode.cn/problems/excel-sheet-column-number/) | 🟢 | `数学` `字符串` |  |
-| 40 | ⭕ | 190 | [颠倒二进制位](https://leetcode.cn/problems/reverse-bits/) | 🟢 | `位运算` `分治` |  |
+| 39 | ✅ | 171 | [Excel 表列序号](https://leetcode.cn/problems/excel-sheet-column-number/) | 🟢 | `数学` `字符串` |  |
+| 40 | ✅ | 190 | [颠倒二进制位](https://leetcode.cn/problems/reverse-bits/) | 🟢 | `位运算` `分治` |  |
 | 41 | ✅ | 191 | [位1的个数](https://leetcode.cn/problems/number-of-1-bits/) | 🟢 | `位运算` `分治` |  |
 | 42 | ✅ | 202 | [快乐数](https://leetcode.cn/problems/happy-number/) | 🟢 | `哈希表` `数学` `双指针` |  |
 | 43 | ✅ | 203 | [移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/) | 🟢 | `递归` `链表` |  |
-| 44 | ⭕ | 205 | [同构字符串](https://leetcode.cn/problems/isomorphic-strings/) | 🟢 | `哈希表` `字符串` |  |
+| 44 | ✅ | 205 | [同构字符串](https://leetcode.cn/problems/isomorphic-strings/) | 🟢 | `哈希表` `字符串` |  |
 | 45 | ✅ | 206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 🟢 | `递归` `链表` |  |
 | 46 | ✅ | 217 | [存在重复元素](https://leetcode.cn/problems/contains-duplicate/) | 🟢 | `数组` `哈希表` `排序` |  |
 | 47 | ✅ | 219 | [存在重复元素 II](https://leetcode.cn/problems/contains-duplicate-ii/) | 🟢 | `数组` `哈希表` `滑动窗口` |  |
