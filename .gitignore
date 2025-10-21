@@ -85,7 +85,9 @@ tmp/
 temp/
 
 # Editor directories and files
-.vscode/
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
 .idea/
 *.suo
 *.ntvs*

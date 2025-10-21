@@ -1,0 +1,32 @@
+{
+  "name": "algorithms-learning",
+  "version": "1.0.0",
+  "description": "> - “数据结构是数据对象，以及存在于该对象的实例和组成实例的数据元素之间的各种联系。这些联系可以通过定义相关的函数来给出。”——《数据结构、算法与应用》\r > - “数据结构是ADT（抽象数据类型 Abstract DataType）的物理实现。”—— Clifford A.Shaffer，《数据结构与算法分析》\r > - “数据结构（data structure）是计算机中存储、组织数据的方式。通常情况下，精心选择的数据结构可以带来最优效率的算法。” ——中文维基百科",
+  "main": "demo.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "ts-node linked-list.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shunrong/algorithms-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shunrong/algorithms-learning/issues"
+  },
+  "homepage": "https://github.com/shunrong/algorithms-learning#readme",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.2"
+  }
+}
