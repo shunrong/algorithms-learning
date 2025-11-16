@@ -2,7 +2,7 @@
 
 > **目标**: 夯实基础，建立算法思维  
 > **难度分布**: 简单68题 | 中等73题 | 困难9题  
-> **进度**: 102/150 (68.0%)
+> **进度**: 104/150 (69.3%)
 
 ## 📊 图标说明
 
@@ -159,8 +159,8 @@
 | 137 | ⭕ | 143 | [重排链表](https://leetcode.cn/problems/reorder-list/) | 🟡 | `栈` `递归` `链表` `双指针` |  |
 | 138 | ⭕ | 146 | [LRU 缓存](https://leetcode.cn/problems/lru-cache/) | 🟡 | `设计` `哈希表` `链表` `双向链表` |  |
 | 139 | ⭕ | 148 | [排序链表](https://leetcode.cn/problems/sort-list/) | 🟡 | `链表` `双指针` `分治` `排序` `归并排序` |  |
-| 140 | ⭕ | 150 | [逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/) | 🟡 | `栈` `数组` `数学` |  |
-| 141 | ⭕ | 152 | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | 🟡 | `数组` `动态规划` |  |
+| 140 | ✅ | 150 | [逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/) | 🟡 | `栈` `数组` `数学` |  |
+| 141 | ✅ | 152 | [乘积最大子数组](https://leetcode.cn/problems/maximum-product-subarray/) | 🟡 | `数组` `动态规划` |  |
 | 142 | ✅ | 4 | [寻找两个正序数组的中位数](https://leetcode.cn/problems/median-of-two-sorted-arrays/) | 🔴 | `数组` `二分查找` `分治` |  |
 | 143 | ⭕ | 23 | [合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | 🔴 | `链表` `分治` `堆（优先队列）` `归并排序` |  |
 | 144 | ✅ | 25 | [K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/) | 🔴 | `递归` `链表` |  |
