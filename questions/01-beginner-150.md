@@ -2,7 +2,7 @@
 
 > **目标**: 夯实基础，建立算法思维  
 > **难度分布**: 简单68题 | 中等73题 | 困难9题  
-> **进度**: 100/150 (66.7%)
+> **进度**: 102/150 (68.0%)
 
 ## 📊 图标说明
 
@@ -85,8 +85,8 @@
 | 63 | ✅ | 344 | [反转字符串](https://leetcode.cn/problems/reverse-string/) | 🟢 | `递归` `双指针` `字符串` |  |
 | 64 | ✅ | 345 | [反转字符串中的元音字母](https://leetcode.cn/problems/reverse-vowels-of-a-string/) | 🟢 | `双指针` `字符串` |  |
 | 65 | ✅ | 349 | [两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/) | 🟢 | `数组` `哈希表` `双指针` `二分查找` `排序` |  |
-| 66 | ⭕ | 350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | 🟢 | `数组` `哈希表` `双指针` `二分查找` `排序` |  |
-| 67 | ⭕ | 383 | [赎金信](https://leetcode.cn/problems/ransom-note/) | 🟢 | `哈希表` `字符串` `计数` |  |
+| 66 | ✅ | 350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | 🟢 | `数组` `哈希表` `双指针` `二分查找` `排序` |  |
+| 67 | ✅ | 383 | [赎金信](https://leetcode.cn/problems/ransom-note/) | 🟢 | `哈希表` `字符串` `计数` |  |
 | 68 | ⭕ | 387 | [字符串中的第一个唯一字符](https://leetcode.cn/problems/first-unique-character-in-a-string/) | 🟢 | `队列` `哈希表` `字符串` `计数` |  |
 | 69 | ✅ | 53 | [最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 🟡 | `数组` `分治` `动态规划` |  |
 | 70 | ✅ | 2 | [两数相加](https://leetcode.cn/problems/add-two-numbers/) | 🟡 | `递归` `链表` `数学` |  |
