@@ -2,7 +2,7 @@
 
 > **目标**: 夯实基础，建立算法思维  
 > **难度分布**: 简单68题 | 中等73题 | 困难9题  
-> **进度**: 96/150 (64.0%)
+> **进度**: 100/150 (66.7%)
 
 ## 📊 图标说明
 
@@ -78,12 +78,12 @@
 | 56 | ✅ | 257 | [二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/) | 🟢 | `树` `深度优先搜索` `字符串` `回溯` `二叉树` |  |
 | 57 | ✅ | 268 | [丢失的数字](https://leetcode.cn/problems/missing-number/) | 🟢 | `位运算` `数组` `哈希表` `数学` `二分查找` `排序` |  |
 | 58 | ✅ | 283 | [移动零](https://leetcode.cn/problems/move-zeroes/) | 🟢 | `数组` `双指针` |  |
-| 59 | ⭕ | 290 | [单词规律](https://leetcode.cn/problems/word-pattern/) | 🟢 | `哈希表` `字符串` |  |
+| 59 | ✅ | 290 | [单词规律](https://leetcode.cn/problems/word-pattern/) | 🟢 | `哈希表` `字符串` |  |
 | 60 | ✅ | 303 | [区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/) | 🟢 | `设计` `数组` `前缀和` |  |
-| 61 | ⭕ | 326 | [3 的幂](https://leetcode.cn/problems/power-of-three/) | 🟢 | `递归` `数学` |  |
-| 62 | ⭕ | 342 | [4的幂](https://leetcode.cn/problems/power-of-four/) | 🟢 | `位运算` `递归` `数学` |  |
+| 61 | ✅ | 326 | [3 的幂](https://leetcode.cn/problems/power-of-three/) | 🟢 | `递归` `数学` |  |
+| 62 | ✅ | 342 | [4的幂](https://leetcode.cn/problems/power-of-four/) | 🟢 | `位运算` `递归` `数学` |  |
 | 63 | ✅ | 344 | [反转字符串](https://leetcode.cn/problems/reverse-string/) | 🟢 | `递归` `双指针` `字符串` |  |
-| 64 | ⭕ | 345 | [反转字符串中的元音字母](https://leetcode.cn/problems/reverse-vowels-of-a-string/) | 🟢 | `双指针` `字符串` |  |
+| 64 | ✅ | 345 | [反转字符串中的元音字母](https://leetcode.cn/problems/reverse-vowels-of-a-string/) | 🟢 | `双指针` `字符串` |  |
 | 65 | ✅ | 349 | [两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/) | 🟢 | `数组` `哈希表` `双指针` `二分查找` `排序` |  |
 | 66 | ⭕ | 350 | [两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | 🟢 | `数组` `哈希表` `双指针` `二分查找` `排序` |  |
 | 67 | ⭕ | 383 | [赎金信](https://leetcode.cn/problems/ransom-note/) | 🟢 | `哈希表` `字符串` `计数` |  |
