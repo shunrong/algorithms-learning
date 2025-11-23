@@ -2,7 +2,7 @@
 
 > **目标**: 夯实基础，建立算法思维  
 > **难度分布**: 简单68题 | 中等73题 | 困难9题  
-> **进度**: 104/150 (69.3%)
+> **进度**: 107/150 (71.3%)
 
 ## 📊 图标说明
 
@@ -117,10 +117,10 @@
 | 95 | ✅ | 49 | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | 🟡 | `数组` `哈希表` `字符串` `排序` |  |
 | 96 | ✅ | 50 | [Pow(x, n)](https://leetcode.cn/problems/powx-n/) | 🟡 | `递归` `数学` |  |
 | 97 | ✅ | 54 | [螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/) | 🟡 | `数组` `矩阵` `模拟` |  |
-| 98 | ⭕ | 55 | [跳跃游戏](https://leetcode.cn/problems/jump-game/) | 🟡 | `贪心` `数组` `动态规划` |  |
-| 99 | ⭕ | 56 | [合并区间](https://leetcode.cn/problems/merge-intervals/) | 🟡 | `数组` `排序` |  |
+| 98 | ✅ | 55 | [跳跃游戏](https://leetcode.cn/problems/jump-game/) | 🟡 | `贪心` `数组` `动态规划` |  |
+| 99 | ✅ | 56 | [合并区间](https://leetcode.cn/problems/merge-intervals/) | 🟡 | `数组` `排序` |  |
 | 100 | ✅ | 59 | [螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/) | 🟡 | `数组` `矩阵` `模拟` |  |
-| 101 | ⭕ | 61 | [旋转链表](https://leetcode.cn/problems/rotate-list/) | 🟡 | `链表` `双指针` |  |
+| 101 | ✅ | 61 | [旋转链表](https://leetcode.cn/problems/rotate-list/) | 🟡 | `链表` `双指针` |  |
 | 102 | ✅ | 62 | [不同路径](https://leetcode.cn/problems/unique-paths/) | 🟡 | `数学` `动态规划` `组合数学` |  |
 | 103 | ✅ | 63 | [不同路径 II](https://leetcode.cn/problems/unique-paths-ii/) | 🟡 | `数组` `动态规划` `矩阵` |  |
 | 104 | ✅ | 64 | [最小路径和](https://leetcode.cn/problems/minimum-path-sum/) | 🟡 | `数组` `动态规划` `矩阵` |  |
